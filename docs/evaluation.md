@@ -5,7 +5,7 @@ Python 3.12 · Streamlit 1.67 · FAISS-CPU 1.15 · TF-IDF embedding backend, lex
 deterministic). Documents: 4 files (1 PDF with 3 pages, 1 DOCX with a table, 2 TXT).
 
 ## 2. Automated test results
-`pytest -q` → **92 passed** (executed repeatedly, all runs green).
+`pytest -q` → **107 passed** (executed repeatedly, all runs green).
 
 | Area | What is verified |
 |---|---|
